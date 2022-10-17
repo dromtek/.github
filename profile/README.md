@@ -6,7 +6,7 @@ Dromtek adalah komunitas pengembang perangkat lunak dan website mengulas tentang
 
 - 🌐 Website: [dromtek](https://dromtek.vercel.app)
 
-- 💬 Ruang ngobrol: comming soon
+- 💬 Ruang ngobrol: [Discord](https://discord.gg/Q2sd9SVmg7)
 
 <!--
 
